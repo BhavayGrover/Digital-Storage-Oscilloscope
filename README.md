@@ -67,6 +67,6 @@ This project is a portable **Digital Storage Oscilloscope (DSO)** built using an
 
 ## Author
 
-**Bhavay Grover**
+**Bhavay Grover** <br>
 **Deepanshu**
 
